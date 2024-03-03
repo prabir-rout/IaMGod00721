@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @IaMGod00721
-- 👀 I’m interested in ...proramming,gaming,coding
-- 🌱 I’m currently learning ...coding
+- 👋 Hi, I’m Prabir Rout , @IaMGod00721
+- 👀 I hv a great intrest in computer programming,gaming and computer hardwares.
+- 🌱 I’m currently learning computer programming and have knowledge on web language(html,css,js). 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mailme:somprabir11@outlook.com
+- 📫 you can reach me on-
+- *mail:somprabir11@outlook.com
+- *insta:psquaar_
 
 
 <!---
