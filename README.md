@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on-
 - *mail:somprabir11@outlook.com
-- *insta:psquaar_
+- *insta:prabir.rout.07
 
 
 <!---
